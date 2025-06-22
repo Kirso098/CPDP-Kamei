@@ -1,2 +1,2 @@
 # CPDP-Kamei
-Contains Dataset and CPDP Experiments using the Kamei Dataset.
+Contains Dataset and Cross Project Defect Prediction (CPDP) Experiments using the Kamei Dataset.
